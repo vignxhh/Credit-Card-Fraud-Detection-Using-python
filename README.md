@@ -8,7 +8,7 @@ This Python project utilizes the Random Forest algorithm to enhance credit card 
 <li>Python: Developed entirely in Python for ease of use and integration.</li>
 </ol>
 <h3>Usage</h3>
-<h5>Clone the repository</h5>
+<!-- <h5>Clone the repository</h5> -->
 <ul>
 <!-- <li>Install dependencies: pip install -r requirements.txt</li> -->
 <li>Run the project: python main.py</li>
